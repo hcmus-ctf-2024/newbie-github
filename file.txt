@@ -522,3 +522,4 @@ HCMUS-CTF{commit_number_521}
 HCMUS-CTF{commit_number_522}
 HCMUS-CTF{commit_number_523}
 HCMUS-CTF{commit_number_524}
+HCMUS-CTF{commit_number_525}
