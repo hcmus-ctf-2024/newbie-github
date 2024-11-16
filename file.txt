@@ -579,3 +579,4 @@ HCMUS-CTF{commit_number_578}
 HCMUS-CTF{commit_number_579}
 HCMUS-CTF{commit_number_580}
 HCMUS-CTF{commit_number_581}
+HCMUS-CTF{commit_number_582}
