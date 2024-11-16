@@ -1709,3 +1709,4 @@ HCMUS-CTF{commit_number_1708}
 HCMUS-CTF{commit_number_1709}
 HCMUS-CTF{commit_number_1710}
 HCMUS-CTF{commit_number_1711}
+HCMUS-CTF{commit_number_1712}
