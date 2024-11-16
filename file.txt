@@ -1875,3 +1875,4 @@ HCMUS-CTF{commit_number_1874}
 HCMUS-CTF{commit_number_1875}
 HCMUS-CTF{commit_number_1876}
 HCMUS-CTF{commit_number_1877}
+HCMUS-CTF{commit_number_1878}
