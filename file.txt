@@ -1703,3 +1703,4 @@ HCMUS-CTF{commit_number_1702}
 HCMUS-CTF{commit_number_1703}
 HCMUS-CTF{commit_number_1704}
 HCMUS-CTF{commit_number_1705}
+HCMUS-CTF{commit_number_1706}
